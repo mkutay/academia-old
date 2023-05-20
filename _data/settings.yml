@@ -1,6 +1,7 @@
 menu:
 - {name: 'Publications', url: '/publications'}
 - {name: 'Courses', url: '/courses'}
+- {name: "Contact", url: "https://www.mkutay.dev"}
 
 courses:
 # - {name: 'Vector Calculus', url: 'vector-calculus'}
