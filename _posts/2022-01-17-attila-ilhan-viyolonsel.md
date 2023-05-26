@@ -1,79 +1,124 @@
 ---
 layout: post
-title: "Haldun Taner’in Keşanlı Ali Destanı Eserindeki Göç Sorunun ve Gecekondulaşmanın İncelenmesi"
+title: "Attila İlhan’ın Viyolonsel Yalnızlığı ve İkinci Viyolonsel Şiirleri Üzerine Bir İnceleme"
 ---
 
 Last Update: January 17, 2022.
 
-[PDF Version](/publications/turkish-a/kesanli-ali-goc.pdf)
+[PDF Version](/publications/turkish-a/attila-ilhan-viyolonsel.pdf)
 
-# Investigation of  Migration Problem and Slums in Haldun Taner's The Epic of Ali of Keşan
+## Attila İlhan’ın _Viyolonsel Yalnızlığı_ ve _İkinci Viyolonsel_ Şiirleri Üzerine Bir İnceleme
 
-### Özet
+#### ÖZET
 
-Türk edebiyatına Tanzimat döneminden itibaren giren tiyatro, Haldun Taner ve Muhsin Ertuğrul gibi birçok yazar sayesinde gelişmiştir. Taner’in eserlerinde geleneksel ve modern tiyatronun unsurları görülmektedir. Tüm eserleri başarılı olmasına rağmen en popüler eseri epik tiyatoru örneği olan _Keşanlı Ali Destanı_’dır. Taner, bu eserinde topluma eleştirel bir bakış açısıyla yaklaşmaktadır. Bu oyunda köylerden kentlere göç eden insanların yaşamından ve gecekondulular ile devlet arasındaki çatışma bahsedilmektedir.
+Attila İlhan, Cumhuriyet Dönemi şairlerimizden biridir. 
+Hayatı boyunca edebiyatla ilgilenen İlhan, birçok şiir kitabı ve birçok roman yazmıştır. 
+Bu incelemede İlhan’ın _Ben Sana Mecburum_ kitabındaki _Viyolonsel Yalnızlığı_ ve _İkinci Viyolonsel_ şiirleri incelenecektir. 
+Bu şiirlerin yer aldığı _Cehennem Dairesi_ bölümünde özgürlükçü hareketler hakkında şiirlere yer verilmiştir ve bunun üzerine bir inceleme yapılmaya çalışılmıştır.
 
-**Anahtar Kelimeler:** Haldun Taner, Keşanlı Ali Destanı, Göç Sorunu, Gecekondululaşma, İnceleme
+**Anahtar Kelimeler:** Attila İlhan, Modern Türk Şiiri, İnceleme, Attila İlhan şiir incelemesi.
 
-# Investigation of  Migration Problem and Slums in Haldun Taner's The Epic of Ali of Keşan
+## An Analysis of Attila İlhan’s _Viyolonsel Yalnızlığı_ and _İkinci Viyolonsel_ Poems
 
-### Abstract
-Play and theater, which has entered Turkish literature since the Tanzimat period, has developed thanks to many writers such as Haldun Taner and Muhsin Ertuğrul. Elements of traditional and modern theater can be seen in Taner's works. Although all his works were successful, his most popular work is the _The Epic of Ali of Keşan_. In this work, Taner approaches society with a critical perspective. In this play, the life of the people who migrated from the villages to the cities and the conflict between the slums and the state are mentioned.
+#### ABSTRACT
 
-**Keywords:** Haldun Taner, The Epic of Ali of Keşan, Migration Problem, Slums, Analysis
+One of our Republıcan Era poets is Attila İlhan, who has always been interested in literature, has published a number of poetry books and novels. 
+The poems _Viyolonsel Yalnızlığı_ and _İkinci Viyolonsel_ in İlhan’s _Ben Sana Mecburum_ book will be analyzed in this research. 
+Poems about libertarian movements are included in _Cehennem Dairesi_ section, where these poems are located, and an analysis has been attempted on them.
 
-## Giriş
+**Keywords:** Attila İlhan, Modern Turkish poetry, analysis, Analysis on Attila İlhan’s poem.
 
-Modern Türk tiyatrosunun kurulmasında ve gelişmesinde önemli bir yeri olan Haldun Taner tiyatro alanında önemli aşamaları canlandırmıştır. Taner, _Günün Adamı_, _Gözlerimi Kaparım Vazifemi Yaparım_ ve _Keşanlı Ali Destanı_ gibi eserleri sayesinde Çağdaş Türk tiyatrosunda önemli bir yer elde etmiştir. Taner’in tiyatro oyunları incelendiğinde Berthold Brecht tarafından ilk kullanılan epik tiyatronun izleri görülebilmektedir. Epik tiyatro türündeki asıl amaç, burjuva sınıfının hayatını anlatmak değil, sıradan halkın ve alt kesimin hayatındaki gündelik sorunları tiyatro oyunu ile ifade etmektir. Ayrıca bu tiyatroda seyirci gözlemci kılınmaktadır ve seyirci etkin bir duruma konulmaktadır. Yargı verdirmeye götürülmekte ve oyun tartışmalarla sürdürülmektedir. İnsan bir araştırma konusu haline getirilerek oluşumu içinde yer alınır (Gariper, 4). _Keşanlı Ali Destanı_’nda da bunun örnekleri görülebilmektedir: İkinci perdenin başında “Zilha: (Paravanı aralayıp başını uzatarak) Siz perde arasında sigara içerken burda neler oldu neler... İki buçuk aydır müteahhit İhya Başaranların evinde çalışıyorum. Burası Kaf dağının ardındaki fildişinden saray gibi bir yer. (Geriye bakar) Dekor tamamlansın, siz de göreceksiniz birazdan.” Başka bir örnek ise Ali ile Zilha aralarında konuşurken de seyirci faktörünü olayın içinde tutmalarıdır: “Önemiyetinden kelli bunu dünyada benden, senden, bir de seyircilerden başka kimse bilmeyecek, anlaşıldı mı?”
+### GİRİŞ
 
-_Keşanlı Ali Destanı_, geleneksel Türk tiyatrosunu ve epik tiyatroyu sentezleyerek komedi unsuru yüksek olan gecekondulu hayatının, kent insanının hayatının, devlet sisteminin, sosyal yapının, politik hayatın, hukuk düzenin üzerinde duran bir eser olarak izleyicinin ve okurun karşısına çıkmaktadır. Ayşegül Yüksel, bu eserin muhtevasını
+Attila İlhan, yirminci yüzyılda yaşamış önemli şairlerimizden biridir. 
+İlhan 65 yıl boyunca uğraştığı şiir hayatında 12 tane şiir kitabı çıkarmıştır. 
+İlhan’ın 1960 yılında çıkarmış olduğu _Ben Sana Mecburum_ eserindeki _Viyolonsel Yalnızlığı_ ve _İkinci Viyolonsel_ şiirleri incelenecektir. 
 
-1. Gecekondu ortamında oluşmuş bir efsanenin balonunun delinmesi,
-2. Büyük şehirlerin kenarlarında oluşan gecekondu mahallerinde yaşayan insanların problemlerine eğilmek,
-3. Baş edilmez zorbalığa karşı kurnazlığın gündeme getirilmesi,
-4. Devlet güvencesine duyulan ihtiyacın gösterilmesi (Yüksel, 78)
+_Viyolonsel Yalnızlığı_ ve _İkinci Viyolonsel_ şiirleri eserin _Cehennem Dairesi_ bölümünde yer almaktadır. 
+İlhan bu bölümde dönemin toplumcu militanın gerilimli yaşantısını ve siyasal özgürlüğü üzerine şiirler yazmıştır. 
+Bölümün ilk iki şiiri olan _Viyolonsel Yalnızlığı_ ve _İkinci Viyolonsel_ birbirinden ayrılmadan incelenmesi gerekmektedir çünkü benzer mekanlarda yer almaktadır ve benzer konuları işlemektedir. 
+Şiirlerde genel olarak Rusya, Osmanlı ve Afrika’daki toplumcu, devrimci hareketleri ve direniş mücadelesinden bahsedilmiştir. 
+Bunların yanında iki şiirde de geçen _Doktor Sabiha_’dan da bahsedilmektedir. 
 
-şeklinde iç içe geçmiş dört katmanda düzenlendiğini belirtir. Bu yazıda bahsedilen dört katmandan gecekondulaşma üzerine durulacaktır.
+### VİYOLONSEL YALNIZLIĞI
 
-## Göç Sorunu
+Şiirin biçiminden kısaca bahsetmek gerekirse, üç farklı bölümden oluşmuştur, serbest ölçü ile yazılmıştır. 
+Şiirde Jön Türk’lerden ve özgürlük hareketlerinden bahsedilmektedir. 
+Şiirin ikinci bölümünde geçen “paris’te ahmed rıza grubu” dizesi Jön Türk’lerden bahsetmektedir. 
+Ahmed Rıza, İttihat ve Terakki Cemiyeti’nin önde gelen kurucularından ve bunun yanında Jön Türk grubunun başındaki isimlerdendir. 
+Üçüncü bölümde bahsedilen şiir kişisinin okuduğu _meşveret gazetesi_ Ahmed Rıza’nın kurduğu ve her iki haftada bir yayınlanan bir gazetedir. 
+Gazetenin yazılarında dikkat çeken ana unsur şikayettir, Osmanlı İmparatorluğu’nun zaaflarına şikayetler. 
 
-Göç unsurunu ve göç etmeyi kafasında bulunduran kişi, bulunduğu ve yaşadığı yerdeki belirli sebeplerden dolayı karşılayamadığı ihtiyaçlarını göç ederek başka yerlerde giderebilme umudunu taşımaktadır. Kişi göç ederken sadece kendisini düşünmemektedir, aynı zamanda ailesine de daha iyi bir hayat standardı sağlama arzusunu bulundurmaktadır (Kırgız Karak, 1-2). Türkiye’de 1950’lerde başlayan ve hızlı bir şekilde büyüyen gecekondulaşma problemi, aynı yıllarda köylere tarım makinaları ve tarım aletlerin girmesi ile beraber toprak sahibi olmayan ve başka kişilerin topraklarında çalışanlar işsiz bırakılmışlardır. İşsiz bırakılan bu insanlar endüstrileşen ve yeni iş alanlarının, fabrikaların açıldığı kentlere göç etmekten başka seçenekleri kalmamıştır. Endüstrileşmenin de yeni başladığı bu kentlere akın eden gerekli hazırlığın ve alt yapının içinden gelmeyen köylüler, gecekondulaşmayı ortaya çıkarır. O dönemlerde olan bu göç akınına hazır olmayan ve gerekli planlamayı yapmamış devlet, nedeniyle daha önceden toprak sahipleri tarafından çalıştırılan köylüler, göç ettikten sonra da gecekondu ağalarının ellerine düşmüştür. Başlarını sokabilecek ve düzgün bir yaşam ortamı oluşturabilecek gecekonduları, yasal olabilse de çoğunlukla yasal olmayan yöntemler ile elde etmeye çalışmışlardır. 
+Üçüncü bölümde devam dizelerde gazeteyi okuması sonucunda uykusunun kaçtığını ve Osmanlı’ya karşı ayaklanma ve savaşma hisleri ortaya çıkmaktadır: 
+“zincirini koparmış içimdeki it”. Bir sonraki satırda bahsedilen _kürt mustafa_ İstanbul’un işgalinden sonra İstanbul’da kurulan işgal kuvvetler 
+etkisindeki mahkemelerin başındaki zalim bir hakimdir, birçok İttihat ve Terakki üyesini idama mahkum eder. Yönetimdeki mahkemenin adı ise şiirde de geçtiği 
+üzere Kürt Mustafa Divan-ı Harp’tır. “Bunun yanı sıra zaman zaman Ermeni Patriğinin desteğindeki Ulusal Ermeni Demokrat Partisi ile de iletişim kuran Mustafa Paşa,
+Divanı Harb-i -Örfi' deki görevi sırasında özellikle Milli Mücadele yanlılarına karşı çok zalim ve yanlı davranmıştır” (Ata, 2008). Bunun yanında Kürt Mustafa’nın _ölüm 
+gömleği_ ile anılması da onun Jön Türkler’e ve Kuva-yi Milliyecilere karşı beslediği nefret ve verdiği haksız ölüm cezalarına da bir göndermedir. 
+Şiirin son bölümünde Cezayirli, oradaki kurtuluş komitasına mensup bir kadından da bahsedilmektedir: “bir kadın cezayir’de ud çalıyor, işlek bilekleri kurtuluş komitasında”
 
-Hiç denecek kadar az para ve yatırım ile göç etmeye çalışan bu insanlar gittikleri büyük kent ve şehirlerde hayatlarını sürdürmeye çalışmışlardır. Yaşayacak ortam ararken bir de gecekondu ağaları ile uğraşmışlardır. Köylerden kentlerdeki gecekondulara göç eden insanların kimlikleri de değişime uğramıştır. Kentlerdeki çarpıklaşmış gecekondu mahallelerindeki köylü kimliklerini koruyamamışlardır, geldikleri kentteki fabrikalarda da işçi olarak şehirleşememişlerdir. Bu kişiler çarpık ekonomik, kültürel ve sosyal yapı içine sürüklenmişlerdir. Onlar artık gecekonduculardır, kentli değil, köylü de değillerdir. Planlamadan uzak, çarpık ve yanlış sosyal yapılanmanın müşahhas örneği durumundadırlar. Onlar, köy-kent zıtlığını ve çelişkisini sosyolojik bir olgu olarak yaşamak zorundadırlar. (Gariper, 11). Bu kişiler, kent hayatının hızına yetişememiş, köy toplumundaki alışkanlıklarından kurtulamamış bir şekilde bu zıtlık arasında kalmışlardır. Ekonomik sıkıntılar ve kültürel çatışmalar içinde _mekan olarak köyden uzak, şehre yakın; kültürel olarak kentten uzak köye yakın_ (Gariper, 11) şeklinde yeni bir yaşam sürdürmeye başlamışlardır. İki farklı taraftan da olmadıklarından dolayı iki tarafın da arasında olan gecekonducu olarak isimlendirilmişlerdir: Bir tarafa tam olarak girememişlerdir. 
+Şiir boyunca tekrar eden başka bir şey ise _Doktor Sabiha_’dır. Sabiha’nın şiirin ilk bölümünde savaş cephesinde yer aldığı görülmektedir. 
+İkinci bölümde yaptığı bir şeyden dolayı veya olan bir şeyden dolayı tutuklanmıştır. Bir sonraki satırda belirtildiği üzere Sabiha’nın ölümü beklediği 
+görülebilmektedir ve bu bekleyiş _sinemaskop_’a benzetilmiştir. Sinemaskop, o yıllarda kullanılmış sinema formatıdır. Bu formatta kareler daha geniş açı ile 
+gösterilmektedir. Şair burada geniş bir ölümü yani her tür bir ölüm olabileceğini belirtmektedir veya sinemaskop gibi kare kare bekleyişini yani her anı bilerek ve 
+yaşayarak beklediğini göstermektedir. Üçüncü bölümde Doktor Sabiha’nın ebonit ağızlığından bahsetmektedir. Burada Sabiha’nın zor bir ölüm geçirdiğini veya acı bir 
+kader yaşadığını belirtilmiştir. Sabiha’nın ölümü Kürt Mustafa Divanharbı’ndan sonraki birkaç satırda bahsedilmesi Sabiha’nın o Divan-ı Harp’ta yargılandığı sonucuna varılmaktadır.
 
-## _Keşanlı Ali Destanı_’nda Göç Sonucunda Gecekondulaşma
+### İKİNCİ VİYOLONSEL
 
-Yukarıda bahsedilen sorunlar sonucundaki bir oyun olarak _Keşanlı Ali Destanı_ yazılmıştır. Eser boyunca tam bir mesleği bulunmayan karakterler görülmektedir: Hafize süt satmaktadır, Hidayet dergi satmaktadır, Niyazi hamallık yapmaktadır. Yukarıda bahsedildiği gibi bu kişiler kent-köy çatışması arasında kalmışlardır. Eserin Takdim bölümünde Nuri kendisinden bahsederken şu sözleri söylemektedir:
+_İkinci Viyolonsel_ şiiri _Viyolonsel Yalnızlığı_ şiirinin devamı olarak görülmektedir ayrıca şiirin son bölümünde _Viyolonsel Yalnızlığı_’na da gönderme bulunmaktadır: 
+“viyolonsel yalnızlığını kıyasıya”. Şiir, _Viyolonsel Yalnızlığı_’nda olduğu gibi özgürlükçü hareketlere atıflarda bulunulmuş ve Sabiha’dan da kısaca bahsedilmiştir. 
 
-_On parmağımda on marifet_
-_Bir eser, gazta satarım_
-_Bir eser, kundura boyarım_
-_İşsiz kalınca_
-_Her bir işi yaparım_
-_Musluk tamir ederim_
-_Lağım temizlerim_
-_Otomobil yıkarım_
-(…)
+Şiir, on tane satırdan oluşmuş dört bölümden meydana gelmektedir. Bunun yanında serbest ölçü kullanılmıştır. Yukarıda da bahsedildiği üzere şiirde özgürlükçü hareketler 
+yer almaktadır. Şiirde bahsedilen _tersane sokağı_ Zonguldak’taki bir tersaneye bakan sokaktır, şiir kişisinin bu sokakta olduğunu anlaşılmaktadır. Ayrıca şiir kişisinin bu 
+sokakta yalnız olduğundan ve tek tük insan kaldığından zamanın akşam olduğu anlaşılmaktadır. “aylardan en vahdettin kasım” dizesinde 1 Kasım 1922 yılında Vahdettin’in 
+yani VI. Mehmed’ın tahttan ayrılışını göstermektedir. Bu Kuva-yi Milliyeciler için büyük bir zafer olarak sayılmaktadır. Bir sonraki satırda bahsedilen _Mondoros 
+Mütarekesi_ ya da diğer adı ile _Mondoros Ateşkes Antlaşması_ Osmanlı’nın I. Dünya savaşından ayrılışını göstermekte ve yıkımını belirtmektedir. 
+	
+Namık Kemal, vatan, millet, eşitlik, hak, hürriyet gibi kavramları ilk defa dile getirenlerdendir. Yazdığı ve söylediklerinden dolayı _Magosa_ sürgünüyle cezalandırılır.
+Bu olay Jön Türk hareketinin önemli bir noktası olduğundan şiirde geçmekte olduğu düşünülebilmektedir. Birkaç satır sonra bahsedilen _Ali Suavi Baskını_ Ali Suavi 
+eşliğinde Çırağan Sarayı’na V. Murat’ı kurtarmak amacıyla yapılmıştır. Bu baskının yapılma sebebi baskın sonrasında Rodop’taki direnişin başına V. Murat geçirilince 
+Rusların tepelenebileceği düşüncelerinde olmasıdır. “bozuk fonograflarda bekirağa bölükleri, üzgün başladıkça suzinak çalmaya” dizelerinde bahsedilen -Bekirağa Bölüğü_ 
+veya diger adı ile _İstanbul Muhafız Dairesi_ Osmanlı zamanında Harbiye Nezareti ve cezaevi olarak kullanılmıştır, kısaca bir hapishanedir. İkinci dizede geçen suzinak ise 
+Farsça’da _yakan_ manasını taşımaktadır, bu anlama paralel olarak huzunlu bir makam ve klasik Türk müziğindeki bir makam anlamlarına gelmektedir. İlhan, _kuvayı milliye 
+mavisi_ ifadesini _Bana bir Şimşek Çak_ şiirinde de kullanmıştır: “gazi’nin gözlerinden, mavi bir şimşek, kuva-yı milliye mavisi”. Bu şiirde Mustafa Kemal’in gözlerine 
+atıfta bulunmaktadır. Buna benzer bir ifadeyi de bu şiirde de bulunabilmektedir. Mustafa Kemal’in gözlerindeki mavi ışıltı Kuva-yı Milliye ruhunu ifade etmektedir. 
 
-Köy hayatında yaşayabilmek ve geçinebilmek için farklı farklı işler yapabilmek gerekmektedir. Nuri için de aynı şekildedir bu durum, köyden göç etmiştir ve para kazanabilmek için bildiği tüm işleri yapmaktadır. Eserde Nuri gibi birçok gecekonduludan da bahsedilmektedir.
+Şiirin üçüncü bölümü _Sabiha_’dan bahsederek başlamaktadır. Bu şiirlerde Sabiha, savaş doktoru olarak karşımıza çıkmaktadır. Bu bölümde savaş doktorluğunun yanı sıra 
+reçete kağıtlarına şiir yazması onun inceliğini ve zarifliğini göstermektedir. İlhan, Sabiha’ya iki farklı görev yüklemektedir: savaş doktoru ve kadın olmanın 
+gerektirdiği zarafet. Bir sonraki satırlarda Berlin’deki Alman savaş esiri kamplarından bahsedilmektedir. O kamplarda kalan esirlerin liberal ve Yahudi olmasında da 
+bahsedilmektedir. 
 
-Farklı şehirlerden kentlere göç edenler yaşayacak yer arayışına girmişlerdir. Göç edenler, vardıkları kentlerdeki konut, apartman, ev yetersizliği ve maddi durumlarının olmaması sebebleriyle oldukları yerde bir ev yani gecekondu yapmışlardır veya gecekondululaşmayı ticarete dönüştüren gecekondu ağalarının ellerine düşüp gecekondu satın almışlardır veya kiralamışlardır. Gecekondu ağalarının ellerine düşenler yüksek kira, kötü yaşam standartları gibi nedenlerle ezilirler. Keşanlı Ali Destanı’nda Keşanlı Ali’nin ortaya çıkmasındaki sebep de budur. İnsanlardaki ezilmişlik duygusunu yok etmek veya azaltmaktır. Keşanlı Ali, insanların gözünde bir kahraman bir kurtarıcıdır. Keşanlı Ali, insanların aklındaki devlet kavramını göstermektedir. Fakat Keşanlı Ali bir kahraman bir kurtarıcı olmaktan uzaktır, yani insanların aklındakı devlet kavramı ideal olan değildir ve bu da onlara göre gerçekte var olan devleti göstermektedir. Nuri’nin aşağıdaki sözleri gecekonduluların gözündeki Ali’yi göstermektedir.
-
-_Ali Abi iki ay içinde muma döndürdü Sinekli’yi. Bir kere konduları yıktırma takririni geri aldırdı_ (…) _Buranın ilçe olması için bir de teklif yapacak diyorlar_ (…) _Mano, haraç, sus parası almasına alıyor. Ama insafla. Vergi almadan bütçe açığı nasıl kapanır? Partilerden para sızdırıyormuş diye homurdananlar oluyor._ (…) _Bugüne bugün hökümat bilem dış yardımsız yapamıyor. Biz nasıl yaparız? Hasılı erkânı harp gibi adam._
-
-Bahsedildiği üzere Nuri’nin bu sözlerinden de Ali ile devlet, hükümet, karşılaştırılmakta ve benzetilmektedir. 
-
-## Sonuç
-
-Haldun Taner, tiyatrolarında halkı ve halkın sıkıntılarını anlatarak Türk tiyatrosunun çağdaşlama yolundaki başarılı örneklerini vermiştir. Taner’in Türk tiyatrosuna kattığı yenilik ve değişikliker, Türk tiyatrosunda ilk kez epik tiyatoro yazarak, ile hem yurt içi hem de yurt dışında tarihe geçmiştir. Büyük bir kentin yakınlarındaki bir gecekondu semtinde geçen oyun, düzensizliği, kanunsuzluğu ve ezilmişliği anlatmaktadır. Taner, bu eser ile beraber köy kökenli gecekondulu insanların kentleşme sürecinde yaşadığı problemleri, devlet ile gecekondulu arasındaki sıkıntıyı, yarattığı karakterler ile başarılı bir şekilde anlatmıştır.
-
-
-## Kaynakça
-
-Taner, Haldun. _Keşanlı Ali Destanı_. Yapı Kredi Yayınları, 2022.
-
-Yüksel, Ayşegül, _Haldun Taner Tiyatrosu_, Bilgi Yayınevi, Ankara 1986.
-
-Gariper, C. _Haldun Taner'in Keşanlı Ali Destanı Üzerinde Bir İnceleme_. İlmi Araştırmalar 0 (2014): 89-120. [https://dergipark.org.tr/en/pub/fsmiadeti/issue/6497/86081](https://dergipark.org.tr/en/pub/fsmiadeti/issue/6497/86081).
+Şiirin devamında geçen “kaç inge bruckhart tahta vagonlarına, wehrmacht kamçılarıyla çizili” dizelerinde İlhan’ın yurtdışındayken yaşadığı bir ilişki üzerine 
+yazılmıştır.  “Aslını sorarsanız, bir tarafımla ben evliliği hiç istemiyordum. 20 ila 40 yaşım arasında hayatımı yaşayacağım diye bir laf tutturmuştum. (…) 
+Gelgelelim bu yıllarda üç kişi bana evliliği düşündürdü” (Çelik, 22). Yaşadıkları ilişkiye rağmen ortak yaşayacakları yer bulamadıklarından ilişkilerini sonlandırmıştır. 
+Inge Bruckhard’ın bu şiirde bulunma sebebi Alman milliyetinden olmasındandır. Inge ile beraber _Wehrmacht kamçıları_ kullanılmıştır. Bu ifade ile kastedilen Nazi 
+Almanyası’nın silahlı kuvvetleridir. “​​kan gibi akıyor bavyera içlerinden, yağmur yüklü tutsak trenleri” burada bahsedilen _Bavyera_ Almanya’daki bir eyalettir. 
+Ayrıca bu dizelerde savaşa maruz kadınlara da atıfta bulunulmuştur. 
  
-Kırgız Karak, Ş. _Edebiyatta Yankılanan Bir Seda: Göç_. Atatürk Üniversitesi Türkiyat Araştırmaları Enstitüsü Dergisi, 2014, 0 (51), 229-243. [https://dergipark.org.tr/en/pub/ataunitaed/issue/2890/40093](https://dergipark.org.tr/en/pub/ataunitaed/issue/2890/40093).
+“o akşam ki karadağ prensinin öldürüldüğü” dizesinde geçen _karadağ prensi_ Karadağ’ın prensi I. Nikola’dır. I. Nikola Osmanlı’lara karşı düşmanlık bellemiştir. 
+Balkan Savaşları’nda Osmanlı’yı Avrupa’dan tamamen atmak istemiştir. I. Dünya Savaşı sonrasında Podgorica’daki bir buluşma sonrasında Nikola’yı sürgün etme kararı
+alınmıştır ve 1921 yılında ölmüştür. “wagner'den ağır bir kar hazır yağmaya, yırtarak o çıplak canavar düdükleri” bu dizelerde bahsedilen _Richard Wagner_ bir müzisyen 
+ve bestecidir. _Düdük_’den kasıt ise enstrüman olarak söylenebilir. “viyolonsel yalnızlığı kıyasıya” dizesi ile İlhan’ın _Viyolonsel Yalnızlığı_ şiirine de atıfta 
+bulunulmuştur. “özgürlüğü sevdiren doktor sabiha’ya” dizesinde Doktor Sabiha’nın özgürlükçü olduğu göstermekte ve onun özgürlüğe düşkünlüğünü belirtmektedir. 
+“ölülerin telâş telâş cepheye döndükleri” dizesinde öleceklerini ve sağ kurtulamyacaklarını bilmelerine rağmen savaşmaya giden askerlerden bahsedilmektedir. 
+“kaç bilbao gecesi bir daha vurulmaya” dizesinde yaralanıp geri çekilen askerlerin tedavileri bitiminde savaşa dönmelerinden bahsedilmektedir. Bu askerleri 
+tedavi eden Doktor Sabiha olarak düşünülebilmektedir. “karanlıktaki tamtamlar kaç afrika'ya” dizesinde Afrika’nın özgürlükçü hareketlerinden bahsedilmektedir. 
+15 ve 16. yüzyıllarda başlayan coğrafi keşifler sonucunda Afrika’nın büyük bir kısmı sömürge haline gelmiştir. Bu dizede de bu sömürgeye karşı çıkan insanların özgürlük 
+hareketlerine atıfta bulunmaktadır.
+
+### SONUÇ
+
+Attila İlhan’ın _Viyolonsel Yalnızlığı_ şiiri 19 ve 20. yüzyıldaki özgürlükçü hareketleri hakkında yazılmıştır. 
+Bunlardan bazıları: Cezayir Savaşı, Ahmed Rıza Grubu ve Jön Türkler. _İkinci Viyolonsel_ şiiri de _Viyolonsel Yalnızlığı_ şiirinin devamı gibi görülmektedir ve 
+onun gibi özgürlükçü hareketlerinden bahsedilmiştir. Bunlardan birkaçı: Mondoros Ateşkesi, Namık Kemal’in yaptıkları, Ali Suavi baskını ve Kuva-yı Milliye. 
+Bu şiirlerde özgürlükçü hareketlerinin yanı sıra Doktor Sabiha’dan da bahsedilmiştir. Okuyucuya asker doktoru olarak tanıtılmıştır. Attila İlhan, bu şiirler ile 
+özgürlük için yapılan hareketler üzerinde durmuş ve bunları hatırlamamızı ve unutmamamızı sağlamıştır. 
+
+#### KAYNAKÇA
+Ata, Feridun (2008). “Süleymaniyeli Nemrut Mustafa Paşa -Bir İşbirlikçinin Portresi”, Selçuk Üniversitesi Fen Edebiyat Fakültesi Edebiyat Dergisi, Sayı: 20, s: 239-242.
+
+Çelik, Yakup, (Ed.), Attilâ İlhan armağanı: Kaptan’a saygı ile…,Gözd. Geç. 2. Baskı, Ankara:Kültür ve Turizm Bakanlığı, 2010.
+
+İlhan, Attila. “Ben Sana Mecburum”. Türkiye İş Bankası Kültür Yayınları, 2021.
+
