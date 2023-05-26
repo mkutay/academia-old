@@ -3,7 +3,9 @@ layout: post
 title: "Franz Kafka’nın Dönüşüm Eserindeki Çeviri Farklılıkları"
 ---
 
-[PDF Version](/publications/donusum-ceviri.pdf)
+Last Update: January 28, 2023.
+
+[PDF Version](/publications/turkish-a/donusum-ceviri.pdf)
 
 ## Giriş
 
