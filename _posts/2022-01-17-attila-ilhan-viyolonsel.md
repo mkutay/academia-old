@@ -3,7 +3,7 @@ layout: post
 title: "Haldun Taner’in Keşanlı Ali Destanı Eserindeki Göç Sorunun ve Gecekondulaşmanın İncelenmesi"
 ---
 
-Last Update: July 27, 2022.
+Last Update: January 17, 2022.
 
 [PDF Version](/publications/turkish-a/kesanli-ali-goc.pdf)
 
